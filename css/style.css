@@ -1,0 +1,13 @@
+.home-frame{
+    width: 150px;
+    height: 150px;
+}
+
+.flexframe{
+    display: flex;
+    height: 96%;
+    width: 95%;
+    justify-content: space-between;
+    justify-items: space-between;
+    flex-wrap: wrap;
+}
